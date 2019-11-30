@@ -1,0 +1,9 @@
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\Toy\Toy\bin\Debug\Toy.exe.config
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\Toy\Toy\bin\Debug\Toy.exe
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\Toy\Toy\bin\Debug\Toy.pdb
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\Toy\Toy\obj\Debug\Toy.csprojAssemblyReference.cache
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\Toy\Toy\obj\Debug\Toy.Form1.resources
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\Toy\Toy\obj\Debug\Toy.Properties.Resources.resources
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\Toy\Toy\obj\Debug\Toy.csproj.GenerateResource.cache
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\Toy\Toy\obj\Debug\Toy.exe
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\Toy\Toy\obj\Debug\Toy.pdb

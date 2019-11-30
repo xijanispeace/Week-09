@@ -1,0 +1,9 @@
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\GDIPlus_1\GDIPLUS_1\GDIPLUS_1\bin\Debug\GDIPLUS_1.exe.config
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\GDIPlus_1\GDIPLUS_1\GDIPLUS_1\bin\Debug\GDIPLUS_1.exe
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\GDIPlus_1\GDIPLUS_1\GDIPLUS_1\bin\Debug\GDIPLUS_1.pdb
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\GDIPlus_1\GDIPLUS_1\GDIPLUS_1\obj\Debug\GDIPLUS_1.csprojAssemblyReference.cache
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\GDIPlus_1\GDIPLUS_1\GDIPLUS_1\obj\Debug\GDIPLUS_1.Form1.resources
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\GDIPlus_1\GDIPLUS_1\GDIPLUS_1\obj\Debug\GDIPLUS_1.Properties.Resources.resources
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\GDIPlus_1\GDIPLUS_1\GDIPLUS_1\obj\Debug\GDIPLUS_1.csproj.GenerateResource.cache
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\GDIPlus_1\GDIPLUS_1\GDIPLUS_1\obj\Debug\GDIPLUS_1.exe
+C:\Users\xijanispeace\Desktop\Lab\Week-09\61030008\GDIPlus_1\GDIPLUS_1\GDIPLUS_1\obj\Debug\GDIPLUS_1.pdb
